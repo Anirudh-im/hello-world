@@ -1,5 +1,4 @@
 # hello-world
-first project
 public class HelloWorld
 {   
       public static void main(String[] args)
